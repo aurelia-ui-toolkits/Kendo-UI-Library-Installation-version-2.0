@@ -1,3 +1,3 @@
-# Kendo UI SDK Installation version 2.0
+# Kendo UI Library Installation version 2.0
 
 
