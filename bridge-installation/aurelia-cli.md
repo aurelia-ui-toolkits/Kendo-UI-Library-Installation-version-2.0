@@ -1,4 +1,6 @@
-### Aurelia-CLI
+_Bridge Installation_
+
+# Aurelia-CLI
 1. `npm install aurelia-kendoui-bridge --save`
 <br><br>
 2. Open `aurelia_project/aurelia.json` and append the following to the `dependencies` section of the `vendor-bundle`:

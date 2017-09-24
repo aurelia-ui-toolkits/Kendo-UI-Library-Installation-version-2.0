@@ -1,4 +1,6 @@
-### Installing the bridge
+_Bridge Installation | Webpack_
+
+# Skeleton
 
 1. `npm install aurelia-kendoui-bridge --save`
 2. in `src/main.js` load the plugin using `.plugin(PLATFORM.moduleName('aurelia-kendoui-bridge'))`:
