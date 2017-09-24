@@ -1,6 +1,6 @@
 # Kendo UI Library Installation version 2.0
 
-This document explains how to install **[Kendo UI](http://www.telerik.com/kendo-ui)** library and how to install **[Aurelia Kendo UI Bridge](https://www.npmjs.com/package/aurelia-kendoui-bridge)** plugin. Pick one installation method for the **[Kendo UI Library Installation](./installation/installing_kendo.md)** and one for the **[Bridge Installation](./installation/installing_the_bridge.md)**.
+This document explains how to install **[Kendo UI](http://www.telerik.com/kendo-ui)** library and how to install **[Aurelia Kendo UI Bridge](https://www.npmjs.com/package/aurelia-kendoui-bridge)** plugin. Pick one installation method for the **[Kendo UI Library Installation](./library-installation.html)** and one for the **[Bridge Installation](./bridge-installation.html)**.
 
 <p align=center>
   <img src="https://user-images.githubusercontent.com/2712405/30786509-1785ec88-a145-11e7-9974-74705bfe214b.png"></img>
