@@ -23,6 +23,8 @@ The reference to **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aureli
 ```
 to find the most recent the version number of aurelia-kendoui-bridge if you want to access any previous version.
 
+***
+
 
 
 
