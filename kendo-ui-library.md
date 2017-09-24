@@ -17,4 +17,4 @@ The **[comparison table](http://www.telerik.com/kendo-ui/comparison)** gives a g
 <p>&nbsp;</p>
 
 
-**You are required to purchase a Kendo PRO [license](http://www.telerik.com/purchase/kendo-ui) in order to use Kendo PRO**
+**You are required to purchase a Kendo UI Professional [license](http://www.telerik.com/purchase/kendo-ui) in order to use Kendo UI PRO Library**. However, in the context of this Installation document, we present only the Kendo UI PRO Library installation, with the assumption that you will use it as an evaluation if you do not have the Kendo UI Professional [license](http://www.telerik.com/purchase/kendo-ui) already.
