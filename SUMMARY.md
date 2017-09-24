@@ -12,5 +12,10 @@
     * [Aurelia CLI](library-installation/advanced-via-module-loader/aurelia-cli.md)
 * [Kendo UI Bridge Plugin](kendo-ui-bridge-plugin.md)
 * [Bridge Installation](bridge-installation.md)
+  * [Webpack](bridge-installation/webpack.md)
+    * [JavascriptServices](bridge-installation/webpack/javascriptservices.md)
+    * [Skeleton](bridge-installation/webpack/skeleton.md)
+  * [Aurelia CLI](bridge-installation/aurelia-cli.md)
+  * [JSPM](bridge-installation/jspm.md)
 * [Next Steps](next-steps.md)
 
