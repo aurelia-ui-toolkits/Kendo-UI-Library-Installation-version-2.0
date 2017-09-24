@@ -6,6 +6,7 @@
   * [General comments](library-installation/general-comments.md)
   * [Simple \(via script tags\)](library-installation/simple-via-script-tags.md)
   * [Custom Library](library-installation/custom-library.md)
+  * [Advanced \(via module loader\)](library-installation/advanced-via-module-loader.md)
 * [Kendo UI Bridge Plugin](kendo-ui-bridge-plugin.md)
 * [Bridge Installation](bridge-installation.md)
 * [Next Steps](next-steps.md)
