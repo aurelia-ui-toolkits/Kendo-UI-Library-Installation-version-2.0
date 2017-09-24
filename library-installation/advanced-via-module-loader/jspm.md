@@ -1,3 +1,5 @@
+_Library Installation | Advanced (via module loader)_
+
 # JSPM based KendoUI Library installation
 
 Our new installation process is compliant with Telerik's NPM based installation, with added simplification: in all tutorial samples we always use Kendo UI Professional library

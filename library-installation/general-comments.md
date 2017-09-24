@@ -1,3 +1,5 @@
+
+_Library Installation_
 # General comments
 
 - Telerik recently added **[NPM Packages](http://docs.telerik.com/kendo-ui/intro/installation/npm#overview)** based installation of the Kendo UI library.

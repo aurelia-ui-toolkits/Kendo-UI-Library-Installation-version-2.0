@@ -1,3 +1,4 @@
+Library Installation
 # Simple (via script tags)
 
 **Simple** KendoUI installation describes the case where the KendoUI SDK \(or its subset\) is loaded via the script tag in the application's `index.html` file, as depicted on the following screenshot

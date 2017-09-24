@@ -1,3 +1,5 @@
+_Library Installation | Advanced (via module loader)_
+
 # Aurelia-CLI
 
 1. Follow [these instructions](http://docs.telerik.com/kendo-ui/intro/installation/npm#kendo-ui-professional) to install Kendo-UI

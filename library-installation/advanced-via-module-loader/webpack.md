@@ -1,3 +1,5 @@
+_Library Installation | Advanced (via module loader)_
+
 # Webpack
 
 1. Follow these instructions to download Kendo from NPM: http://docs.telerik.com/kendo-ui/intro/installation/npm
