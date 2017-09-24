@@ -1,6 +1,8 @@
 # Kendo UI Bridge Plugin
 
-### _a copy of the page at the[related GitHub repository](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge/blob/master/README.md)_:
+***
+
+### _The following information is a copy of the page at the [related GitHub repository](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge/blob/master/README.md)_:
 
 A set of [Aurelia](http://aurelia.io) wrappers for [Kendo UI](http://www.telerik.com/kendo-ui)
 
