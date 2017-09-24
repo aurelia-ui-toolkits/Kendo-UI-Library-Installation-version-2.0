@@ -1,3 +1,9 @@
+# _This page needs to be reviewed and revritten_
+
+***
+***
+***
+
 # Custom Library
 Telerik has a nice feature on their website where they allow you to select a set of controls and download a minified javascript that only contains the controls you selected. This is recommended as this file is often smaller in size than kendo.all.min.js.
 
