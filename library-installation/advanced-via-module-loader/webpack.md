@@ -1,16 +1,11 @@
-More precisely, our new installation process is compliant with Telerik's NPM based installation, with added simplification: in all tutorial samples we always use Kendo UI Professional library, regardless of the fact that we actually just add the **[Autocomplete](http://aurelia-ui-toolkits.github.io/demo-kendo/#/samples/autocomplete-basic-use)** component.
-- Tutorial samples that do not use JSPM, are simply invoking the following command
+# Webpack
 
-```
-npm install --save @progress/kendo-ui
-```
-to add the Kendo UI library to the applications that uses the Kendo UI Bridge.
+1. Follow these instructions to download Kendo from NPM: http://docs.telerik.com/kendo-ui/intro/installation/npm
+2. In main.js, use `import '@progress/kendo-ui/js/kendo.all';` to load all Kendo controls. In order to load a specific control use `import '@progress/kendo-ui/js/kendo.button';`
+3. Load css from main.js with: 
+   ```
+   import '@progress/kendo-ui/css/web/kendo.common.min.css';
+   import '@progress/kendo-ui/css/web/kendo.bootstrap.min.css';` 
 
-- For SystemJS / JSPM based application, the above command becomes:
-
-```
-jspm install npm:@progress/kendo-ui
-
-```
 
 
