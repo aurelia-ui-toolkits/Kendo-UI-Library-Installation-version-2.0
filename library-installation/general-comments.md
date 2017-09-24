@@ -21,10 +21,10 @@ jspm install npm:@progress/kendo-ui
 
 ```
 
-All subsequent sections of this **[installation](../installation.html)** as well as all tutorials are rewritten to accomodate the above described changes. As a consequence, each of our subseqently described "installation cases" (where crossed-out entries indicate just deprecated pages) became a lot simpler, as explained on subsequent pages in this section.
+All subsequent sections of this **[installation](../installation.html)** as well as all tutorials are rewritten to accomodate the above described changes. As a consequence, each of our subseqently described "installation cases"  became a lot simpler, as explained on subsequent pages in this section.
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/2712405/30750872-992470c8-9f85-11e7-8f1a-a799eccc4ce1.png"></img>
+  <img src="https://user-images.githubusercontent.com/2712405/30787549-3ac04c7a-a159-11e7-97f8-945968083013.png"></img>
+ <br><br>
 </p>
-
 ***
