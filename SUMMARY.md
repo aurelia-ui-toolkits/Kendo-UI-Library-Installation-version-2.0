@@ -6,4 +6,5 @@
 * [Kendo UI Bridge Plugin](kendo-ui-bridge-plugin.md)
 * [Bridge Installation](bridge-installation.md)
 * [Next Steps](next-steps.md)
+* [Installation](installation.md)
 
