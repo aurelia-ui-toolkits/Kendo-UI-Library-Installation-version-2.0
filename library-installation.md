@@ -8,6 +8,6 @@ This section of the Installation document explains how to install **[Kendo UI](h
  <br><br>
 </p>
 
-The support for **[npm](https://www.npmjs.com/)** based **[Kendo UI](http://www.telerik.com/kendo-ui)** library installation has simplified the installation of this library in the context of the 
+The support for **[npm](https://www.npmjs.com/)** based **[Kendo UI](http://www.telerik.com/kendo-ui)** library installation has simplified the installation of this library in the context of the **[KendoUI Bridge Plugin](./kendo-ui-bridge-plugin.html)**
 
 
