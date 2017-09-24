@@ -1,8 +1,14 @@
 # Kendo UI Bridge Plugin
 
 ***
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/2712405/30786863-a7579a14-a14a-11e7-9cc0-f9489acb2c69.png"></img>
+ <br>
+</p>
 
-#### _The following information is a copy of the page at the [related GitHub repository](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge/blob/master/README.md)_:
+This bridge is a structured, configurable collection of JavaScript classes that "wrap" KendoUI native controls, presenting them to the Aurelia developer in the form of **[Aurelia components](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/creating-components)**.
+
+##### _The following information is a copy of the page at the [related GitHub repository](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge/blob/master/README.md)_:
 
 >> A set of [Aurelia](http://aurelia.io) wrappers for [Kendo UI](http://www.telerik.com/kendo-ui)
 >>
