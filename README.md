@@ -4,10 +4,7 @@ This document explains how to install **[Kendo UI](http://www.telerik.com/kendo-
 
 <br>
 
-<p align=center>
-  <img src="https://user-images.githubusercontent.com/2712405/30786509-1785ec88-a145-11e7-9974-74705bfe214b.png"></img>
- <br><br>
-</p>
+
 
 
 #### _Important note_

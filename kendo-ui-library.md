@@ -1,10 +1,13 @@
 # Kendo UI Library
+Progress® Kendo UI is an HTML5 user interface framework for building interactive and high-performance websites and applications. Kendo UI is a comprehensive framework providing 70+ Kendo UI widgets, and includes a simple and consistent programming interface, a rock-solid Data Source, out-of-the-box themes, an MVVM framework, and more. Kendo UI includes widgets for enterprise-grade line-of-business applications and is suitable for creating professional websites.
+
 <p>&nbsp;</p>
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/2712405/30749199-abe1a2bc-9f80-11e7-9d45-248ef4ba0646.png"></img>
-<br><br>
+  <img src="https://user-images.githubusercontent.com/2712405/30786509-1785ec88-a145-11e7-9974-74705bfe214b.png"></img>
+ <br><br>
 </p>
+
 <p>&nbsp;</p>
 
 
